@@ -1,5 +1,7 @@
 # MPPT Hardware Module
 
+![Prototype PCB](prototype.png)
+
 This repository documents the design and usage of a custom-built Maximum Power Point Tracking (MPPT) hardware system. It is designed to optimise energy harvesting from solar panels or other variable power sources into a battery or power management system.
 
 ## Features
